@@ -1,0 +1,2 @@
+public class ThucHanhGiaiPhuontTrinhBac1 {
+}
